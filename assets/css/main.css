@@ -449,11 +449,11 @@ input:checked+.slider .moon-icon {
     margin-bottom: 1rem;
 }
 
+
 #competitive-programming .score-number {
     font-size: 3rem;
     font-weight: 700;
     color: #de0f66;
-    /* Score number color */
 }
 
 .score-card {
